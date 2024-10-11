@@ -31,7 +31,6 @@ int main() {
         if (res == arr[i])
             confirmCount++;
     }
-    }
 
     if (confirmCount > n / 2)
         printf("%d", res);
