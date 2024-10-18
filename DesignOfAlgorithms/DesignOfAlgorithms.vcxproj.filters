@@ -273,7 +273,13 @@
     <ClCompile Include="5.cpp">
       <Filter>Source Files\Week 4 - 2</Filter>
     </ClCompile>
-    <ClCompile Include="6.cpp">
+    <ClCompile Include="..\Source\Week 4 - 2\6.cpp">
+      <Filter>Source Files\Week 4 - 2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\Week 4 - 2\7.cpp">
+      <Filter>Source Files\Week 4 - 2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\Week 4 - 2\8.cpp">
       <Filter>Source Files\Week 4 - 2</Filter>
     </ClCompile>
   </ItemGroup>
