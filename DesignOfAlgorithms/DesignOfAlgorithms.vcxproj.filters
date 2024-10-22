@@ -34,6 +34,9 @@
     <Filter Include="Source Files\Week 4 - 2">
       <UniqueIdentifier>{be06cefb-f49b-48fe-bd73-c6862917769c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Week 5">
+      <UniqueIdentifier>{dbd2a027-db70-49ae-a1a3-43a45e70ad5c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\Design-Of-Algorithms\Week 1\1.cpp">
@@ -281,6 +284,27 @@
     </ClCompile>
     <ClCompile Include="..\Source\Week 4 - 2\8.cpp">
       <Filter>Source Files\Week 4 - 2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\Week 5\1.cpp">
+      <Filter>Source Files\Week 5</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\Week 5\2.cpp">
+      <Filter>Source Files\Week 5</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\Week 5\3.cpp">
+      <Filter>Source Files\Week 5</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\Week 5\4.cpp">
+      <Filter>Source Files\Week 5</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\Week 5\5.cpp">
+      <Filter>Source Files\Week 5</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\Week 5\6.cpp">
+      <Filter>Source Files\Week 5</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\Week 5\7.cpp">
+      <Filter>Source Files\Week 5</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
