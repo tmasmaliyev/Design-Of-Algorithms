@@ -38,10 +38,14 @@
       <UniqueIdentifier>{dbd2a027-db70-49ae-a1a3-43a45e70ad5c}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files\Week 6">
+<<<<<<< HEAD
       <UniqueIdentifier>{9488bbe3-3ee8-474d-9a69-de6e49b9b397}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files\Quiz 2">
       <UniqueIdentifier>{ef2eec19-6a72-4d45-b80d-b85ddccff22a}</UniqueIdentifier>
+=======
+      <UniqueIdentifier>{040ecbb7-9524-4682-b72e-7b6506c4b620}</UniqueIdentifier>
+>>>>>>> b720d498447bc3aefa70230ed1e6b68679afb034
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -318,6 +322,7 @@
     <ClCompile Include="..\Source\Week 6\2.cpp">
       <Filter>Source Files\Week 6</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="..\Source\Week 6\6.cpp">
       <Filter>Source Files\Week 6</Filter>
     </ClCompile>
@@ -336,5 +341,7 @@
     <ClCompile Include="..\Source\Week 5\9.cpp">
       <Filter>Source Files\Week 5</Filter>
     </ClCompile>
+=======
+>>>>>>> b720d498447bc3aefa70230ed1e6b68679afb034
   </ItemGroup>
 </Project>

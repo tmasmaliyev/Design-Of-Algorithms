@@ -3,12 +3,21 @@
   "WorkspaceRootPath": "C:\\Users\\TaharMasmaliyev\\Documents\\ADA University\\Fall 2024\\Design of Algorithms\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{2E8AD35B-865F-41FA-A621-E33111C2B64B}|DesignOfAlgorithms\\DesignOfAlgorithms.vcxproj|C:\\Users\\TaharMasmaliyev\\Documents\\ADA University\\Fall 2024\\Design of Algorithms\\Source\\Week 5\\9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2E8AD35B-865F-41FA-A621-E33111C2B64B}|DesignOfAlgorithms\\DesignOfAlgorithms.vcxproj|solutionrelative:Source\\Week 5\\9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E8AD35B-865F-41FA-A621-E33111C2B64B}|DesignOfAlgorithms\\DesignOfAlgorithms.vcxproj|C:\\Users\\TaharMasmaliyev\\Documents\\ADA University\\Fall 2024\\Design of Algorithms\\Source\\Week 5\\8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2E8AD35B-865F-41FA-A621-E33111C2B64B}|DesignOfAlgorithms\\DesignOfAlgorithms.vcxproj|solutionrelative:Source\\Week 5\\8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+=======
+      "AbsoluteMoniker": "D:0:0:{2E8AD35B-865F-41FA-A621-E33111C2B64B}|DesignOfAlgorithms\\DesignOfAlgorithms.vcxproj|C:\\Users\\TaharM\\Documents\\Programming\\DesignOfAlgorithms\\Source\\Week 6\\2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E8AD35B-865F-41FA-A621-E33111C2B64B}|DesignOfAlgorithms\\DesignOfAlgorithms.vcxproj|solutionrelative:Source\\Week 6\\2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E8AD35B-865F-41FA-A621-E33111C2B64B}|DesignOfAlgorithms\\DesignOfAlgorithms.vcxproj|C:\\Users\\TaharM\\Documents\\Programming\\DesignOfAlgorithms\\Source\\Week 6\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E8AD35B-865F-41FA-A621-E33111C2B64B}|DesignOfAlgorithms\\DesignOfAlgorithms.vcxproj|solutionrelative:Source\\Week 6\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+>>>>>>> b720d498447bc3aefa70230ed1e6b68679afb034
     }
   ],
   "DocumentGroupContainers": [
@@ -26,6 +35,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 1,
               "Title": "8.cpp",
               "DocumentMoniker": "C:\\Users\\TaharMasmaliyev\\Documents\\ADA University\\Fall 2024\\Design of Algorithms\\Source\\Week 5\\8.cpp",
@@ -35,10 +45,22 @@
               "ViewState": "AQIAADAAAAAAAAAAAAAqwE8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-24T18:03:36.003Z",
+=======
+              "DocumentIndex": 0,
+              "Title": "2.cpp",
+              "DocumentMoniker": "C:\\Users\\TaharM\\Documents\\Programming\\DesignOfAlgorithms\\Source\\Week 6\\2.cpp",
+              "RelativeDocumentMoniker": "Source\\Week 6\\2.cpp",
+              "ToolTip": "C:\\Users\\TaharM\\Documents\\Programming\\DesignOfAlgorithms\\Source\\Week 6\\2.cpp",
+              "RelativeToolTip": "Source\\Week 6\\2.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwCIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T10:04:22.926Z",
+>>>>>>> b720d498447bc3aefa70230ed1e6b68679afb034
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 0,
               "Title": "9.cpp",
               "DocumentMoniker": "C:\\Users\\TaharMasmaliyev\\Documents\\ADA University\\Fall 2024\\Design of Algorithms\\Source\\Week 5\\9.cpp",
@@ -48,6 +70,17 @@
               "ViewState": "AQIAAD0AAAAAAAAAAAAqwEgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-24T18:03:34.41Z",
+=======
+              "DocumentIndex": 1,
+              "Title": "1.cpp",
+              "DocumentMoniker": "C:\\Users\\TaharM\\Documents\\Programming\\DesignOfAlgorithms\\Source\\Week 6\\1.cpp",
+              "RelativeDocumentMoniker": "Source\\Week 6\\1.cpp",
+              "ToolTip": "C:\\Users\\TaharM\\Documents\\Programming\\DesignOfAlgorithms\\Source\\Week 6\\1.cpp",
+              "RelativeToolTip": "Source\\Week 6\\1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T08:09:54.094Z",
+>>>>>>> b720d498447bc3aefa70230ed1e6b68679afb034
               "EditorCaption": ""
             }
           ]
