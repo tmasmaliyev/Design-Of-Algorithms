@@ -37,6 +37,12 @@
     <Filter Include="Source Files\Week 5">
       <UniqueIdentifier>{dbd2a027-db70-49ae-a1a3-43a45e70ad5c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Week 6">
+      <UniqueIdentifier>{9488bbe3-3ee8-474d-9a69-de6e49b9b397}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Quiz 2">
+      <UniqueIdentifier>{ef2eec19-6a72-4d45-b80d-b85ddccff22a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\Design-Of-Algorithms\Week 1\1.cpp">
@@ -304,6 +310,30 @@
       <Filter>Source Files\Week 5</Filter>
     </ClCompile>
     <ClCompile Include="..\Source\Week 5\7.cpp">
+      <Filter>Source Files\Week 5</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\Week 6\1.cpp">
+      <Filter>Source Files\Week 6</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\Week 6\2.cpp">
+      <Filter>Source Files\Week 6</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\Week 6\6.cpp">
+      <Filter>Source Files\Week 6</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\Quiz 2\1.cpp">
+      <Filter>Source Files\Quiz 2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\Quiz 2\2.cpp">
+      <Filter>Source Files\Quiz 2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\Quiz 2\3.cpp">
+      <Filter>Source Files\Quiz 2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\Week 5\8.cpp">
+      <Filter>Source Files\Week 5</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\Week 5\9.cpp">
       <Filter>Source Files\Week 5</Filter>
     </ClCompile>
   </ItemGroup>
